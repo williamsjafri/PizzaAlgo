@@ -1,4 +1,5 @@
 1. Decide which business to order from
 1a Look up websites
 2. Decide which type of pizza to order
+    a. choose toppings
 3. Decide how many pizza to order
